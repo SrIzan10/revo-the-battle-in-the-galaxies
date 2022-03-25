@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Revo the battle in the galaxies.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
